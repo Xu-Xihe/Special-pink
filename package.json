@@ -1,0 +1,19 @@
+{
+	"name": "pink-themes",
+	"displayName": "My Pink Theme",
+	"description": "Special Pink Theme for C/C++ extension.",
+	"version": "1.0.0",
+	"publisher": "Xu Xihe",
+	"icon": "assets/LanguageCCPP_color_128x.png",
+	"readme": "README.md",
+	"engines": {"vscode":"*"},
+	"categories": ["Themes"],
+	"contributes": {
+		"themes":[{
+			"id":"Special Pink",
+			"label": "Pink-Light",
+			"uiTheme": "vs",
+			"path": "./themes/pink.json"
+		}]
+	}
+}
