@@ -1,6 +1,7 @@
-# My Pink VScode Theme
-It is a pink theme for vscode.Especially for C/C++.It is testing now, so somethimes it will have something cannot be used.
-## Installations
-1. unzip the package
-2. mv all of the files into ~/.vscode/extensions/
-3. enjoy coding inside pink!
+# Special-pink
+It is a pink theme for vscode.Especially for C/C++.It is testing now, so somethimes it will have something cannot be used.\
+![icon](./assets/icon.png)
+## Screen example
+![example](./assets/example.png)
+## Installtion
+> sh install.sh
