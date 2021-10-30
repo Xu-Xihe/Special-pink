@@ -4,4 +4,6 @@ It is a pink theme for vscode.Especially for C/C++.It is testing now, so somethi
 ## Screen example
 ![example](./assets/example.png)
 ## Installtion
-> sh install.sh
+``` bash
+sh install.sh
+```
